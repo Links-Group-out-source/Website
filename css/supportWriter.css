@@ -1,0 +1,21 @@
+.writer
+{
+    padding-top: 13% !important;
+}
+.writer a
+{
+    color: aliceblue !important;
+    font-size: 40px !important;
+}
+@media (max-width:600px)
+{
+    .writer
+    {
+        padding-top: 50% !important;
+    }
+    .writer a
+{
+    color: aliceblue !important;
+    font-size: 30px !important;
+}
+}
