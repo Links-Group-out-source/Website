@@ -96,11 +96,11 @@ a{
 /* navbar */
 
 header{
-    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)),url(https://www.atlasandboots.com/wp-content/uploads/2015/04/seven-second-summits-k2-1.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
-    margin-bottom: 50px;
+    background: linear-gradient(rgba(0, 0, 0, 0.429),rgba(0, 0, 0, 0.3)),url('../imgs/background.jpg');
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    margin-bottom: 100px;
 }
 
 /* slider */
@@ -333,7 +333,8 @@ h4{
   max-width: 200px !important;
   max-height: 200px !important;
   border-radius: 50% !important;
-  padding: 20px 0px !important;
+
+
   
 }
 
